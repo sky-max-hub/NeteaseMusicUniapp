@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d212de70-2dbf-4d73-97e2-1c30e6f9e4a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/component/Find/FunListItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/Find/FunListItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/Find/RecommendSongList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/Find/RecommendSongList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/SideDrawerBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/SideDrawerBar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/TopTabBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/TopTabBar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/Yun/WyyYun.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/Yun/WyyYun.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/loginPage/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/loginPage/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/playlist/play.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/playlist/play.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/playlist/playlist.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/playlist/playlist.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappchooselocation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniapperror.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappes6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappopenlocation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniapppicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappquill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappquillimageresize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappscan.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappsuccess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-config-service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-view.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/diantai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/gedan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/header.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/heart_break.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/paihang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tuijian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/zhibo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/view.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/view.umd.min.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +38,30 @@
       <option name="presentableId" value="Default" />
       <updated>1630314077445</updated>
       <workItem from="1630314078580" duration="50000" />
-      <workItem from="1630314130139" duration="743000" />
+      <workItem from="1630314130139" duration="3230000" />
     </task>
+    <task id="LOCAL-00001" summary="屏幕自适应和局部字体大小调整">
+      <created>1630315240318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630315240318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="屏幕自适应和局部字体大小调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="屏幕自适应和局部字体大小调整" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1630315238494">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="275" y="0" key="CommitChangelistDialog2/62.0.1218.800@62.0.1218.800" timestamp="1630315238494" />
     <state x="452" y="155" key="FileChooserDialogImpl" timestamp="1630314127030">
       <screen x="62" y="0" width="1218" height="800" />
     </state>

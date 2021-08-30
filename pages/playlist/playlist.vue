@@ -5,7 +5,7 @@
 			<view class="topBar test-border">
 				<view @tap="backTo()">
 					<view class="icon iconfont icon-sdf"></view>
-					<text style="font-size: 1em;">歌单</text>
+					<text style="font-size: 1.2em;">歌单</text>
 				</view>
 				<view>
 					<view class="icon iconfont icon-search"></view>
