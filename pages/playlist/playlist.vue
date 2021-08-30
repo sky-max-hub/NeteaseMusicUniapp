@@ -5,7 +5,7 @@
 			<view class="topBar test-border">
 				<view @tap="backTo()">
 					<view class="icon iconfont icon-sdf"></view>
-					<text>歌单</text>
+					<text style="font-size: 1em;">歌单</text>
 				</view>
 				<view>
 					<view class="icon iconfont icon-search"></view>
@@ -53,8 +53,8 @@
 			<view class="play-list test-border">
 				<view class="play-header test-border">
 					<view class="icon iconfont icon-bofang"></view>
-					<text>播放全部</text>
-					<text>({{songList.length}}首)</text>
+					<text style="font-size: 1.1em;">播放全部</text>
+					<text style="font-size: 1em;">({{songList.length}}首)</text>
 				</view>
 				<view class="play-list-items test-border">
 					<block v-for="(item,index) in songList">
@@ -69,10 +69,10 @@
 							</view>
 							<view class="test-border">
 								<view>
-									<text>{{item.name}}</text>
+									<text style="font-size: 1.1em;">{{item.name}}</text>
 								</view>
 								<view>
-									<text>
+									<text style="font-size: 1em;">
 										{{format_songer_name(item.ar)}}-{{item.al.name}}
 									</text>
 								</view>

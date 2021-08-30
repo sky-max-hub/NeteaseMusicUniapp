@@ -11,15 +11,15 @@
 							</view>
 						</view>
 						<view>
-							<text>{{item.name}}</text>
+							<text style="font-size: 1.1em;">{{item.name}}</text>
 						</view>
 						<view>
 							<view>
 								<view class="icon iconfont icon-bofang"></view>
-								<text>{{item.playCount}}</text>
+								<text style="font-size: 0.9em;">{{item.playCount}}</text>
 							</view>
 							<view>
-								<text>{{item.artistName}}</text>
+								<text style="font-size: 0.9em;">{{item.artistName}}</text>
 							</view>
 						</view>
 					</view>

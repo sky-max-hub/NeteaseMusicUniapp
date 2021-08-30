@@ -4,32 +4,32 @@
 			<view>
 				<image src="../../static/tuijian.jpg" mode="widthFix"></image>
 			</view>
-			<text>每日推荐</text>
+			<text style="font-size: 1em;">每日推荐</text>
 		</view>
 		<view>
 			<view>
 				<image src="../../static/diantai.jpg" mode="widthFix"></image>
 			</view>
-			<text>私人FM</text>
+			<text style="font-size: 1em;">私人FM</text>
 		</view>
 		<view>
 			<view>
 				<image src="../../static/gedan.jpg" mode="widthFix"></image>
 			</view>
-			<text>歌单</text>
+			<text style="font-size: 1em;">歌单</text>
 		</view>
 		<view>
 			<view>
 				<image src="../../static/paihang.jpg" mode="widthFix"></image>
 			</view>
-			<text>排行榜</text>
+			<text style="font-size: 1em;">排行榜</text>
 		</view>
-		<view>
+		<!-- <view>
 			<view>
 				<image src="../../static/zhibo.jpg" mode="widthFix"></image>
 			</view>
 			<text>直播</text>
-		</view>
+		</view> -->
 	</view>
 </template>
 
@@ -66,8 +66,8 @@
 		justify-content: center;
 	}
 	.fun-list-item>view>view>image{
-		height: 90upx;
-		width: 90upx;
+		height: 110upx;
+		width: 110upx;
 		border-radius: 50%;
 		margin-bottom: 10upx;
 	}

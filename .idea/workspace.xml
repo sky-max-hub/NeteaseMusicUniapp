@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d212de70-2dbf-4d73-97e2-1c30e6f9e4a9" name="Default Changelist" comment="" />
+    <list default="true" id="d212de70-2dbf-4d73-97e2-1c30e6f9e4a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/component/Find/FunListItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/Find/FunListItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Find/RecommendSongList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/Find/RecommendSongList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/SideDrawerBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/SideDrawerBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/TopTabBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/TopTabBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Yun/WyyYun.vue" beforeDir="false" afterPath="$PROJECT_DIR$/component/Yun/WyyYun.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/loginPage/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/loginPage/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/playlist/playlist.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/playlist/playlist.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappchooselocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniapperror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappes6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappopenlocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniapppicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappquill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappquillimageresize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappscan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappsuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-config-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/diantai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/gedan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/heart_break.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/paihang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tuijian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/zhibo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/view.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/view.umd.min.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xRNjcGIaIfbbuRlq5m4UuOrIPt" />
   <component name="ProjectViewState">
@@ -30,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630314077445</updated>
       <workItem from="1630314078580" duration="50000" />
+      <workItem from="1630314130139" duration="743000" />
     </task>
     <servers />
   </component>
@@ -41,5 +78,13 @@
       <screen x="62" y="0" width="1218" height="800" />
     </state>
     <state x="452" y="155" key="FileChooserDialogImpl/62.0.1218.800@62.0.1218.800" timestamp="1630314127030" />
+    <state x="542" y="298" key="Github.ShareDialog" timestamp="1630314192393">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="542" y="298" key="Github.ShareDialog/62.0.1218.800@62.0.1218.800" timestamp="1630314192393" />
+    <state x="488" y="101" key="Github.UntrackedFilesDialog" timestamp="1630314219038">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="488" y="101" key="Github.UntrackedFilesDialog/62.0.1218.800@62.0.1218.800" timestamp="1630314219038" />
   </component>
 </project>

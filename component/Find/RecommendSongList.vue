@@ -12,11 +12,11 @@
 							<image :src="item.picUrl" mode="widthFix"></image>
 							<view>
 								<view class="icon iconfont icon-play"></view>
-								<text>{{numForm(item.playCount)}}</text>
+								<text style="font-size: 0.9em;">{{numForm(item.playCount)}}</text>
 							</view>
 						</view>
 						<view class="test-border">
-							<text>{{item.name}}</text>
+							<text style="font-size: 1em;">{{item.name}}</text>
 						</view>
 					</view>
 				</block>

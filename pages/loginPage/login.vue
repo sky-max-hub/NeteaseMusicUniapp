@@ -36,9 +36,9 @@
 						
 			<!-- 底部信息 -->
 			<view class="footer">
-				<navigator url="forget" open-type="navigate">忘记密码</navigator>
+				<navigator url="forget" open-type="navigate" style="font-size: 1em;">忘记密码</navigator>
 				<text>|</text>
-				<navigator url="register" open-type="navigate">注册账号</navigator>
+				<navigator url="register" open-type="navigate" style="font-size: 1em;">注册账号</navigator>
 			</view>
 		</view>
 	</view>

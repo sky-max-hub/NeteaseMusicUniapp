@@ -4,7 +4,7 @@
 			<view class="test-border">
 				<view>
 					<image :src="user_info.profile.avatarUrl"></image>
-					<text>{{user_info.profile.nickname}}</text>
+					<text style="font-size: 1.2em;">{{user_info.profile.nickname}}</text>
 					<view class="icon iconfont icon-you"></view>
 				</view>
 				<view @tap="scanCode">
@@ -15,14 +15,14 @@
 		<scroll-view class="scroll-side-bar test-border" scroll-y>
 			<view class="scroll-side-bar-item">
 				<view>
-					<text>音乐服务</text>
+					<text style="font-size: 1.2em;">音乐服务</text>
 				</view>
 				<view>
 					<block v-for="(item,index) in sideBarService">
 						<view class="flex-v-center">
 							<view class="flex-v-center">
 								<view :class="item.itemClass"></view>
-								<text>{{item.itemName}}</text>
+								<text style="font-size: 1.3em;">{{item.itemName}}</text>
 							</view>
 							<view>
 								<view class="icon iconfont icon-you"></view>
@@ -33,14 +33,14 @@
 			</view>
 			<view class="scroll-side-bar-item">
 				<view>
-					<text>其他</text>
+					<text style="font-size: 1.2em;">其他</text>
 				</view>
 				<view>
 					<block v-for="(item,i) in sideBarOther">
 						<view class="flex-v-center">
 							<view class="flex-v-center">
 								<view :class="item.itemClass"></view>
-								<text>{{item.itemName}}</text>
+								<text style="font-size: 1.3em;">{{item.itemName}}</text>
 							</view>
 							<view>
 								<view class="icon iconfont icon-you"></view>
@@ -49,7 +49,7 @@
 					</block>
 				</view>
 			</view>
-			<view @tap="logout()" class="flex-hv-center side-drawer-exit">退出云音乐登录</view>
+			<view @tap="logout()" style="font-size: 1.3em;" class="flex-hv-center side-drawer-exit">退出云音乐登录</view>
 			<seize-view></seize-view>
 		</scroll-view>
 	</view>

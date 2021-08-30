@@ -7,7 +7,7 @@
 			</view>
 			<view class="test-border">
 				<block v-for="(tab,index) in topTabBar" :key="index">
-					<view style="font-size: 1.1em;" class="test-border" :class="{'topTabActive' :topTabIndex==index}"
+					<view style="font-size: 1.4em;" class="test-border" :class="{'topTabActive' :topTabIndex==index}"
 					@tap="topTabTap(index)">
 						{{tab}}
 						<template v-if="topTabIndex==index">
