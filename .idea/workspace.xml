@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d212de70-2dbf-4d73-97e2-1c30e6f9e4a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/playlist/play.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/playlist/play.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/playlist/playlist.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/playlist/playlist.vue" afterDir="false" />
+    <list default="true" id="d212de70-2dbf-4d73-97e2-1c30e6f9e4a9" name="Default Changelist" comment="app打包配置">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/cache/certdata" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/cache/certdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/cache/wgt/__UNI__E037CF1/app-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/cache/wgt/__UNI__E037CF1/app-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/cache/wgt/__UNI__E037CF1/app-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/cache/wgt/__UNI__E037CF1/app-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/cache/wgt/__UNI__E037CF1/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/cache/wgt/__UNI__E037CF1/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/build/app-plus/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,8 @@
       <option name="presentableId" value="Default" />
       <updated>1630314077445</updated>
       <workItem from="1630314078580" duration="50000" />
-      <workItem from="1630314130139" duration="3230000" />
+      <workItem from="1630314130139" duration="3373000" />
+      <workItem from="1630321887271" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="屏幕自适应和局部字体大小调整">
       <created>1630315240318</created>
@@ -47,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630315240318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="歌曲切换时图片背景跟着切换且有毛玻璃效果">
+      <created>1630320551799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630320551799</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,13 +67,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="屏幕自适应和局部字体大小调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="屏幕自适应和局部字体大小调整" />
+    <MESSAGE value="歌曲切换时图片背景跟着切换且有毛玻璃效果" />
+    <option name="LAST_COMMIT_MESSAGE" value="歌曲切换时图片背景跟着切换且有毛玻璃效果" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1630315238494">
+    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1630321918134">
       <screen x="62" y="0" width="1218" height="800" />
     </state>
-    <state x="275" y="0" key="CommitChangelistDialog2/62.0.1218.800@62.0.1218.800" timestamp="1630315238494" />
+    <state x="275" y="0" key="CommitChangelistDialog2/62.0.1218.800@62.0.1218.800" timestamp="1630321918134" />
     <state x="452" y="155" key="FileChooserDialogImpl" timestamp="1630314127030">
       <screen x="62" y="0" width="1218" height="800" />
     </state>
@@ -74,5 +87,9 @@
       <screen x="62" y="0" width="1218" height="800" />
     </state>
     <state x="488" y="101" key="Github.UntrackedFilesDialog/62.0.1218.800@62.0.1218.800" timestamp="1630314219038" />
+    <state x="264" y="133" key="Vcs.Push.Dialog.v2" timestamp="1630320556739">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="264" y="133" key="Vcs.Push.Dialog.v2/62.0.1218.800@62.0.1218.800" timestamp="1630320556739" />
   </component>
 </project>

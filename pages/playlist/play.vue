@@ -1,5 +1,5 @@
 <template>
-	<view class="parent" :style="{'background-image': 'url('+imageToBase64(played.cover_image)+')'}">
+	<view class="parent" :style="{'background-image': 'url('+played.cover_image+')'}">
 		<view class="top test-border">
 			<status-bar></status-bar>
 			<view class="topBar test-border">
@@ -178,21 +178,6 @@
 			//#endif
 		},
 		methods:{
-			imageToBase64(url){
-				console.log(url+"***********************************")
-				uni.request({
-					url:url,
-					method:'GET',
-					responseType:'arraybuffer',
-					success(res) {
-						console.log(res)
-						return 'data:image/jpeg;base64,'+wx.arrayBufferToBase64(res.data)
-					},
-					fail(err){
-						console.log("图片***********************************")
-					}
-				})
-			},
 			volume_change(e){
 				let position = e.detail.value;
 				console.log("change")
