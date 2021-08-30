@@ -1,0 +1,90 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/loginPage/lauchPage",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+				"backgroundColor": "#db2c1f",
+				"backgroundColorBottom":"#db2c1f",
+				"backgroundColorTop":"#db2c1f",
+		        "enablePullDownRefresh": false,
+				"navigationStyle":"custom",
+				"app-plus":{
+					"bounce":"none"
+				}
+		    }
+		    
+		},
+		{
+		    "path" : "pages/loginPage/login",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+				"navigationStyle":"custom",
+				"app-plus":{
+					"bounce":"none"
+				}
+		    }
+		    
+		},
+		{
+		    "path" : "pages/playlist/play",
+		    "style":{
+		    	"navigationBarTitleText":"",
+		    	"enablePullDownRefresh": false,
+		    	"navigationStyle":"custom",
+		    	"app-plus":{
+		    		"bounce":"none"
+		    	}
+		    }
+		},
+		{
+			"path":"pages/loginPage/register",
+			"style":{
+				"navigationBarTitleText":"",
+				"enablePullDownRefresh": false,
+				"navigationStyle":"custom",
+				"app-plus":{
+					"bounce":"none"
+				}
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+		    "path" : "pages/playlist/playlist",
+		    "style":{
+		    	"navigationBarTitleText":"",
+		    	"enablePullDownRefresh": false,
+		    	"navigationStyle":"custom",
+		    	"app-plus":{
+		    		"bounce":"none"
+		    	}
+		    }
+		},
+		{
+		    "path" : "pages/loginPage/forget",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+		    }
+		    
+		}
+    ],
+	"tabBar":{
+		
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app"
+	}
+}

@@ -1,0 +1,33 @@
+/* .test-border{
+	border: #F0AD4E 1upx solid;
+}
+.test-border2{
+	border: #ff0a37 1upx solid;
+} */
+.flex-h-center{
+	display: flex;
+	justify-content: center;
+}
+.flex-v-center{
+	display: flex;
+	align-items: center;
+}
+.flex-hv-center{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+uni-checkbox .uni-checkbox-input {
+	border-radius: 20%;
+	background-color: transparent;
+	border: 1upx solid #f8d6d3;
+}
+
+uni-checkbox .uni-checkbox-input.uni-checkbox-input-checked {
+	border: 1upx solid #f8d6d3;
+}
+
+uni-checkbox:not([disabled]) .uni-checkbox-input:hover{
+	border: 1upx solid #f8d6d3;
+}
+
