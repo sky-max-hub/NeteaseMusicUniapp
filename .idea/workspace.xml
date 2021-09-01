@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d212de70-2dbf-4d73-97e2-1c30e6f9e4a9" name="Default Changelist" comment="" />
+    <list default="true" id="d212de70-2dbf-4d73-97e2-1c30e6f9e4a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,7 @@
       <workItem from="1630314130139" duration="3373000" />
       <workItem from="1630321887271" duration="34000" />
       <workItem from="1630323634555" duration="167000" />
+      <workItem from="1630484496483" duration="1795000" />
     </task>
     <task id="LOCAL-00001" summary="屏幕自适应和局部字体大小调整">
       <created>1630315240318</created>
@@ -58,23 +62,31 @@
       <option name="project" value="LOCAL" />
       <updated>1630323758339</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="app更换应用图标和界面优化">
+      <created>1630484734273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630484734273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="屏幕自适应和局部字体大小调整" />
     <MESSAGE value="歌曲切换时图片背景跟着切换且有毛玻璃效果" />
     <MESSAGE value="app更换应用图标和界面优化" />
     <option name="LAST_COMMIT_MESSAGE" value="app更换应用图标和界面优化" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1630323733394">
+    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1630484725050">
       <screen x="62" y="0" width="1218" height="800" />
     </state>
-    <state x="275" y="0" key="CommitChangelistDialog2/62.0.1218.800@62.0.1218.800" timestamp="1630323733394" />
+    <state x="275" y="0" key="CommitChangelistDialog2/62.0.1218.800@62.0.1218.800" timestamp="1630484725050" />
     <state x="452" y="155" key="FileChooserDialogImpl" timestamp="1630314127030">
       <screen x="62" y="0" width="1218" height="800" />
     </state>
