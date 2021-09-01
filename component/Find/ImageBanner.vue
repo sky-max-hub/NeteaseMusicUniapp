@@ -6,7 +6,7 @@
 				<block v-for="(item,index) in banners">
 					<swiper-item>
 						<view class="flex-hv-center banner-container">
-							<image :src="item.pic"/>
+							<image :src="item.pic" mode="aspectFills"/>
 						</view>
 					</swiper-item>
 				</block>
