@@ -70,25 +70,42 @@
 
 ## 运行教程
 
-**git clone** 或者 **download zip**
+<table frame='void' border='0'>
+  <tr>
+    <td>
+      1. git clone 或者 download zip网速慢的可以使用加速源.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='https://github.com/sky-max-hub/NeteaseMusicUniapp'>NeteaseMusicUniapp</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2. 之后在HBuilder X文件选项中选择从文件目录中导入或者从git中导入：
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src='https://img.sky123.top/img/image-20210901163304654.png' width=350 />
+    </td>
+  </tr>
+  <tr>
+    <td>
+       3. 之后选择识别工程类型，点击运行即可，注意：播放音乐功能只能在APP端中才能看到效果，其他界面可以选择在浏览器中运行或者在手机中运行。
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <img src='https://img.sky123.top/img/image-20210901163724604.png' width=350 />
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <img src='https://img.sky123.top/img/image-20210901163817218.png' width=350 />
+    </td>
+  </tr>
+</table>
 
-网速慢的可以使用加速源
-
-```
-https://hub.fastgit.org/sky-max-hub/NeteaseMusicUniapp.git
-```
-
-```
-https://gitclone.com/github.com/sky-max-hub/NeteaseMusicUniapp.git
-```
-
-之后在 **HBuilder X** 文件选项中选择**从文件目录中导入**或者**从git中导入**：
-
-![](https://img.sky123.top/img/image-20210901163304654.png)
-
-之后选择识别工程类型，点击运行即可，注意：**播放音乐功能只能在APP端中才能看到效果**，其他界面可以选择在浏览器中运行或者在手机中运行。
-
-![image-20210901163724604](https://img.sky123.top/img/image-20210901163724604.png)
-
-![image-20210901163817218](https://img.sky123.top/img/image-20210901163817218.png)
 
