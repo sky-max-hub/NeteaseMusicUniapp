@@ -1,23 +1,15 @@
 # NeteaseMusicUniapp
 基于**uniapp**的手机版和仿网易云音乐app。安卓版 **apk** 体验：[仿网易云APP](https://img.sky123.top/img/%E4%BB%BF%E7%BD%91%E6%98%93%E4%BA%91app.apk)
 
-**本项目仅限学习交流使用, 不得用于商业用途, 如作他用所承受的法律责任一概与作者无关**
-
 ## 灵感来源和感谢
 
-- 网易云后端 API：
+- 网易云后端 API：[Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
-  [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
+- 这是自己成功部署后的效果，可以供测试用：[网易云音乐 API (music.sky123.top)](http://music.sky123.top/)
 
-- 这是自己成功部署后的效果，可以供测试用：
+- 播放音乐的功能的代码借鉴，用的是[这位大佬：liuxiaoyucc](https://github.com/liuxiaoyucc/uni-music/tree/master/NVUE)，他使用用Nvue实现的和dom来操作的，而我直接是用vue写的，好处是大部分界面可以直接在浏览器运行查看到效果方便调试，毕竟写web端写习惯了。只有播放音乐的功能需要进行真机调试。
 
-  [网易云音乐 API (music.sky123.top)](http://music.sky123.top/)
-
-- 播放音乐的功能的代码借鉴，这位大佬用的是Nvue实现的和dom来，而我直接用vue写的，好处是大部分界面可以直接在浏览器运行查看到效果方便调试，只有播放音乐的功能需要进行真机调试。（毕竟是写web端写习惯了。。。。）
-
-  [liuxiaoyucc/uni-music](https://github.com/liuxiaoyucc/uni-music/tree/master/NVUE)
-
-  
+**本项目仅限学习交流使用, 不得用于商业用途, 如作他用所承受的法律责任一概与作者无关** 
 
 ## 功能界面
 
